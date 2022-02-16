@@ -38,9 +38,5 @@ print("Number of words in a file:",count)
 [git logo](h1.png)
 
 [git logo](h2.png)
-
-
-
-
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
